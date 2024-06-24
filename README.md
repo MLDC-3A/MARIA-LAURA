@@ -1,9 +1,9 @@
 # MARIA-LAURA
 
-MEU NOME  É MARIA LAURA DIAS
+MEU NOME É MARIA LAURA 
 
 
-BEM VINTO AO MEU PERFIL
+BEM VINDO AO MEU PERFIL
 °ESTOU ESTUDANDO NO ALURA
 °Estou me desenvolvendo na linguagem JavaScript
 °Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
